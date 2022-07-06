@@ -103,7 +103,7 @@ ondat:
 
 # Prometheus Values
 prometheus:
-  enable: false
+  enable: true
   serviceAccountName:
   roleArn: 
   ampWorkspaceUrl:
